@@ -1,6 +1,6 @@
 
 {
-    "customers": [
+     "customers": [
         {
             "Name": "Alfreds Futterkiste",
             "City": "Berlin",
@@ -76,9 +76,10 @@
             "City": "São Paulo",
             "Country": "Brazil"
         }
-    ]
+    ],
     
- "movies": [
+ 
+   "movies": [
     {
     "title": "Geostorm",
     "year": 2016,
