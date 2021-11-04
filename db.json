@@ -79,7 +79,9 @@
     ]
 }
 
-{{
+{
+  [
+    {
     "title": "Geostorm",
     "year": 2016,
     "director": "Dean Devlin",
